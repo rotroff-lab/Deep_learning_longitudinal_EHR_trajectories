@@ -16,4 +16,5 @@ How to run:
 
 
 Please cite this github address if you use this project:
+
 https://github.com/rotroff-lab/Deep_learning_longitudinal_EHR_trajectories/
