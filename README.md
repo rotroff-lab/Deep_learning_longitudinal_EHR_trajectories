@@ -5,5 +5,11 @@ Software requirements:
 
 How to run:
 
-1- Create a Dataset folder 
-Download cohorts and put them in the project folder
+1- Download mag cohorts and shape cohorts folder from the provided link and put them in the Dataset folder.
+2- The project is configured to use Nvidea GPU to train/test models. You should be ok if you do not have GPU.
+2- Run TS_Classification_DNN.py
+3- Choose a method, your GPU core (0 if you do not have GPU), and number of runs in the prompt message.
+
+
+Please cite this github address if you use this project:
+https://github.com/rotroff-lab/Deep_learning_longitudinal_EHR_trajectories/
