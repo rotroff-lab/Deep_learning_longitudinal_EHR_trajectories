@@ -1,6 +1,7 @@
 # Deep_learning_longitudinal_EHR_trajectories
 
 Software requirements:
+
 1- Python version 3.7 or newer.
 
 How to run:
